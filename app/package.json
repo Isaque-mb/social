@@ -10,7 +10,7 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "core-js": "^2.6.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vue": "^2.6.10"
   },
   "devDependencies": {
